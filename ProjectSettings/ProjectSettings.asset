@@ -6,7 +6,7 @@ PlayerSettings:
   serializedVersion: 8
   productGUID: 83efc37e8eb40454e87313721d5055c0
   AndroidProfiler: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -102,7 +102,7 @@ PlayerSettings:
   singlePassStereoRendering: 0
   protectGraphicsMemory: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 9
+  AndroidMinSdkVersion: 19
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   apiCompatibilityLevel: 2
@@ -457,7 +457,7 @@ PlayerSettings:
   - XboxOne::enus
   - iOS::VR::enable
   - tvOS::VR::enable
-  Android::VR::enable: 0
+  Android::VR::enable: 1
   Metro::VR::enable: 0
   N3DS::VR::enable: 0
   PS3::VR::enable: 0
